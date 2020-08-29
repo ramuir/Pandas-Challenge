@@ -1,0 +1,21 @@
+In the Heros of Pymoli challenge we looked at the sales distrubution
+of an independent gaming company. All sales were additional purchases
+to the video game called Heros of Pymoli.
+
+From the data we can deduce that there are 576 different players and 780
+different purchases. Several add ons were purchased multpile times, but to know
+if this is effeicient we would need to know more about the cost of development
+as it seems like this is a lot of add ons for how many were actually purchased mulitple 
+times. The main driving sales was the male gender at 84% of users.
+
+We also looked at the age distribution for the sales. the most common 
+purchaser was between 20 and 24 and those within 15 to 29 years old 
+purchased 77% of users from 5 to 50 years old.
+
+Final Crite and Oathbreaker: Last Hope were the two most popular add ons at 
+a $4.61 and $4.23 product cost and a $59.99 and $50.76 total revenue, respectively.
+At a total revenue 2379.77 I see that even the most popular add ons are of a low
+percentage of the total income. I would suggest to the company that it seems
+better to produce more add ons than pricier harder to develop add ons. 
+The power of abundance seems to be in their favor more so than just producing 
+1 or 2 add ons that everyone purchases. 
